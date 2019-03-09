@@ -1,6 +1,6 @@
 # Answers
 
-1.  What is React JS and what problems does it try and solve?
+1.  What is React JS and what problems does it try and solve?React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
 1.  What does it mean to _think_ in react?
 
